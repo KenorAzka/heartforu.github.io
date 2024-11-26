@@ -171,7 +171,7 @@ var init = function () {
         heartText.style.opacity = "1"; // Muncul kembali
       }, 8000); // Waktu fade out
     }, 6000); // Ulangi setiap 6 detik
-  }
+  }, 8000);
 };
 
 // Jalankan inisialisasi
