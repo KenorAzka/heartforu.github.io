@@ -169,7 +169,7 @@ var init = function () {
       heartText.style.opacity = "0"; // Memudar
       setTimeout(() => {
         heartText.style.opacity = "1"; // Muncul kembali
-      }, 6000); // Waktu fade out
+      }, 8000); // Waktu fade out
     }, 6000); // Ulangi setiap 6 detik
   }, 6000);
 };
